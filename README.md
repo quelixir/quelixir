@@ -8,7 +8,7 @@
 
 
 ## 🎧 I'm currently listening to
-[![Monkey News](https://github.com/quelixir/quelixir/raw/master/assets/MonkeyNews.jpg)](#)
+[![Monkey News](https://github.com/quelixir/quelixir/raw/master/assets/MonkeyNews.jpg)](https://youtu.be/ZwO2sNzNV7M)
 
 or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
