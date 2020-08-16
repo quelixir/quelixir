@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**quelixir/quelixir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
+- [Distill](https://github.com/quelixir/distill) - a self-hosted alcohol collection manager
 
-Here are some ideas to get you started:
+### 🌿 [Willowgreen](https://willowgreen.io)
+- [People Insights](https://willowgreen.io/peopleinsights) - an investment tool to track the people behind successful companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🎧 I'm currently listening to
+[![Monkey News](https://github.com/quelixir/quelixir/raw/master/MonkeyNews.jpg)](#)
+
+or [check my Last.fm profile](https://www.last.fm/user/quelixir)
+
+
+## 📫 How to reach me
+- by email: [nick@willowgreen.io](mailto:nick@willowgreen.io)
+- by post: `C/- Willowgreen, GPO Box 651, Brisbane  QLD  4001, Australia`
+
