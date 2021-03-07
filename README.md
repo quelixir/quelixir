@@ -18,7 +18,7 @@
 
 
 ## 🎧 I'm currently listening to
-[![Lamp - 八月の詩情](https://i.imgur.com/4EdyDCn.jpg)](https://botanicalhouse.bandcamp.com/track/the-poetry-of-august)
+[Lamp - 八月の詩情](https://botanicalhouse.bandcamp.com/track/the-poetry-of-august)
 
 or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
