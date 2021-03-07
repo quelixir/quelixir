@@ -14,14 +14,11 @@
 ![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat&logo=vultr&logoColor=white&color=blue)
 
 ## 🔭 I’m currently working on
-- [Distill](https://github.com/quelixir/distill) - a self-hosted alcohol collection manager
-
-### 🌿 [Willowgreen](https://willowgreen.io)
-- [People Insights](https://willowgreen.io/peopleinsights) - an investment tool to track the people behind successful companies.
+- [Valor Esports](https://valoresports.com/) - changing the face of esports
 
 
 ## 🎧 I'm currently listening to
-[![Monkey News](https://github.com/quelixir/quelixir/raw/master/assets/MonkeyNews.jpg)](https://youtu.be/ZwO2sNzNV7M)
+[![Lamp - 八月の詩情](https://i.imgur.com/4EdyDCn.jpg)](https://botanicalhouse.bandcamp.com/track/the-poetry-of-august)
 
 or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
