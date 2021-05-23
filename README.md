@@ -26,3 +26,6 @@ or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 ## 📫 How to reach me
 - by email: [nick@willowgreen.io](mailto:nick@willowgreen.io)
 - by post: `C/- Willowgreen, GPO Box 651, Brisbane  QLD  4001, Australia`
+
+## 💸 Donate
+- [XMR](https://www.getmonero.org): `85NpQUuG4adZcoVCoK5kPhMkV6MygGgvDCCo9EHWPUG9AEcCKgnW4PgYvjwHKs7ueq1DMNYm5X9YP5YB3TyZU3qPQAirnWx`
