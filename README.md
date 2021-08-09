@@ -14,11 +14,11 @@
 ![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat&logo=vultr&logoColor=white&color=blue)
 
 ## 🔭 I’m currently working on
-- [Valor Esports](https://valoresports.com/) - changing the face of esports
+- [Valor Esports](https://valoresports.com/) – esports club for aspiring EAthletes
 
 
 ## 🎧 I'm currently listening to
-[Lamp - 八月の詩情](https://botanicalhouse.bandcamp.com/track/the-poetry-of-august)
+[Lamp – 八月の詩情](https://botanicalhouse.bandcamp.com/track/the-poetry-of-august)
 
 or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
@@ -28,5 +28,5 @@ or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 - by post: `C/- Yuanlin, GPO Box 651, Brisbane  QLD  4001, Australia`
 
 ## 💸 Donate
-- [XMR](https://www.getmonero.org): `85NpQUuG4adZcoVCoK5kPhMkV6MygGgvDCCo9EHWPUG9AEcCKgnW4PgYvjwHKs7ueq1DMNYm5X9YP5YB3TyZU3qPQAirnWx`
+- [XMR](https://www.getmonero.org/): `85NpQUuG4adZcoVCoK5kPhMkV6MygGgvDCCo9EHWPUG9AEcCKgnW4PgYvjwHKs7ueq1DMNYm5X9YP5YB3TyZU3qPQAirnWx`
 - [WOW](https://wownero.org/): `WW2r2xP3fTqcH65dqkmG13Tq3YeYJr1oehLps4i2CoW3ZXmzXvz8ZDgJLaN3WywkiCQuo3kss6Mo7K6bhww1Vfou1D4k8CoGx`
