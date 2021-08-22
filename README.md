@@ -1,31 +1,15 @@
 # Hi there 👋
 
-## 👀 At a glance
-![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat&logo=vultr&logoColor=white&color=blue)
-
 ## 🔭 I’m currently working on
 - [Valor Esports](https://valoresports.com/) – esports club for aspiring EAthletes
 
-
 ## 🎧 I'm currently listening to
-[Lamp – 八月の詩情](https://botanicalhouse.bandcamp.com/track/the-poetry-of-august)
-
-or [check my Last.fm profile](https://www.last.fm/user/quelixir)
-
+- [Jacob Collier – In the Real Early Morning](https://www.youtube.com/watch?v=NSbxiFjA1ZQ)
+- or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
 ## 📫 How to reach me
 - by email: [nickschlobohm@protonmail.ch](mailto:nickschlobohm@protonmail.ch)
-- by post: `C/- Yuanlin, GPO Box 651, Brisbane  QLD  4001, Australia`
+- by post: `Nick Schlobohm, GPO Box 651, Brisbane QLD 4001, Australia`
 
 ## 💸 Donate
 - [XMR](https://www.getmonero.org/): `85NpQUuG4adZcoVCoK5kPhMkV6MygGgvDCCo9EHWPUG9AEcCKgnW4PgYvjwHKs7ueq1DMNYm5X9YP5YB3TyZU3qPQAirnWx`
