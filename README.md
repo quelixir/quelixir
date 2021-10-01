@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on
-- [Valor Esports](https://valoresports.com/) – esports club for aspiring EAthletes
+- [Valor Esports](https://valoresports.com/) – Esports academy for aspiring EAthletes
 
 ## 🎧 I'm currently listening to
-- [Jacob Collier – In the Real Early Morning](https://www.youtube.com/watch?v=NSbxiFjA1ZQ)
+- [Lamp - A都市の秋](https://www.youtube.com/watch?v=5W9S9la-C6s)
 - or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
 ## 📫 How to reach me
