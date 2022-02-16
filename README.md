@@ -1,14 +1,14 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on
-- [Valor Esports](https://valoresports.com/) – Esports academy for aspiring EAthletes
+- [Valor Esports](https://valoresports.com/) – Online esports academy
 
 ## 🎧 I'm currently listening to
-- [Lamp - A都市の秋](https://www.youtube.com/watch?v=5W9S9la-C6s)
+- [Steely Dan - My Rival](https://www.youtube.com/watch?v=k0U55Io0Z9E)
 - or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
 ## 📫 How to reach me
-- by email: [nickschlobohm@protonmail.ch](mailto:nickschlobohm@protonmail.ch)
+- by email: [nks@schlobohm.one](mailto:nks@schlobohm.one) ([PGP key](https://schlobohm.one/keys/nks.schlobohm.one.asc))
 - by post: `Nick Schlobohm, GPO Box 651, Brisbane QLD 4001, Australia`
 
 ## 💸 Donate
