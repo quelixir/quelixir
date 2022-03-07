@@ -8,7 +8,7 @@
 - or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
 ## 📫 How to reach me
-- by email: [nks@schlobohm.one](mailto:nks@schlobohm.one) ([PGP key](https://schlobohm.one/keys/nks.schlobohm.one.asc))
+- by email: [nks@schlobohm.one](mailto:nks@schlobohm.one) ([PGP key](https://schlobohm.one/keys/nks.schlobohm.one.asc) and [its record on keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=0x526BA79CDDC8F83548EE7EBAC793DAC14E58330D&fingerprint=on&op=index))
 - by post: `Nick Schlobohm, GPO Box 651, Brisbane QLD 4001, Australia`
 
 ## 💸 Donate
