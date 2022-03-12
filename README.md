@@ -1,10 +1,11 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on
-- [Valor Esports](https://valoresports.com/) – Online esports academy
+- [Valor Esports](https://valoresports.com/) – online esports academy
+- [Us](https://nickschlobohm.com/us/) – album coming 2022
 
 ## 🎧 I'm currently listening to
-- [Steely Dan - My Rival](https://www.youtube.com/watch?v=k0U55Io0Z9E)
+- [Ghoul – Fiend](https://www.youtube.com/watch?v=Byn_gSw4eeg)
 - or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
 ## 📫 How to reach me
