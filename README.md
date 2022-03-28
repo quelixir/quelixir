@@ -5,7 +5,7 @@
 - [Us](https://nickschlobohm.com/us/) – album coming 2022
 
 ## 🎧 I'm currently listening to
-- [Ghoul – Fiend](https://www.youtube.com/watch?v=Byn_gSw4eeg)
+- [Donald Fagen – The Nightfly](https://www.youtube.com/watch?v=-rrrof1TJc4)
 - or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
 ## 📫 How to reach me
