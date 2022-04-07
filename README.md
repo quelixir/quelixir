@@ -5,7 +5,7 @@
 - [Us](https://nickschlobohm.com/us/) – album coming 2022
 
 ## 🎧 I'm currently listening to
-- [Donald Fagen – The Nightfly](https://www.youtube.com/watch?v=-rrrof1TJc4)
+- [Daft Punk – Digital Love](https://www.youtube.com/watch?v=FxzBvqY5PP0)
 - or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
 ## 📫 How to reach me
