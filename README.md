@@ -5,7 +5,7 @@
 - [Us](https://nickschlobohm.com/us/) – album coming 2022
 
 ## 🎧 I'm currently listening to
-- [Daft Punk – Digital Love](https://www.youtube.com/watch?v=FxzBvqY5PP0)
+- [２８１４ – 遠くの愛好家](https://www.youtube.com/watch?v=ClWIIaRg5fo)
 - or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
 ## 📫 How to reach me
