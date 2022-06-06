@@ -10,7 +10,7 @@
 
 ## 📫 How to reach me
 - by email: [nks@schlobohm.one](mailto:nks@schlobohm.one) ([PGP key](https://schlobohm.one/keys/nks.schlobohm.one.asc) and [its record on keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=0x526BA79CDDC8F83548EE7EBAC793DAC14E58330D&fingerprint=on&op=index))
-- by post: `Nick Schlobohm, GPO Box 651, Brisbane QLD 4001, Australia`
+- by post: `Nick Schlobohm, PO Box 1977, Sunnybank Hills QLD 4109, Australia`
 
 ## 💸 Donate
 - [XMR](https://www.getmonero.org/): `85NpQUuG4adZcoVCoK5kPhMkV6MygGgvDCCo9EHWPUG9AEcCKgnW4PgYvjwHKs7ueq1DMNYm5X9YP5YB3TyZU3qPQAirnWx`
