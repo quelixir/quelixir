@@ -2,10 +2,10 @@
 
 ## 🔭 I’m currently working on
 - [Valor Esports](https://valoresports.com/) – online esports academy
-- [Us](https://nickschlobohm.com/us/) – album coming 2022
+- [Us](https://nickschlobohm.com/us/) – album coming 2023
 
 ## 🎧 I'm currently listening to
-- [２８１４ – 遠くの愛好家](https://www.youtube.com/watch?v=ClWIIaRg5fo)
+- [JENSEN – West Chinatown](https://www.youtube.com/watch?v=ETs8T04jb0U)
 - or [check my Last.fm profile](https://www.last.fm/user/quelixir)
 
 ## 📫 How to reach me
